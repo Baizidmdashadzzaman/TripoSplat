@@ -12,7 +12,7 @@ TripoSplat converts a single 2D image into high-quality and variable number of 3
 ## Highlights
 - **High-quality, versatile generation** that handles a wide range of image styles.
 - **Arbitrary Gaussian count** (up to 262,144) — trade off visual quality against rendering cost according to your need.
-- **Minimal, readable code**: two files (`triposplat.py` and `model.py`), ~1,200 LOC total. Easy to customize and integrate into other ecosystems.
+- **Minimal, readable code**: two files (`triposplat.py` and `model.py`), ~2,000 LOC total. Easy to customize and integrate into other ecosystems.
 - **Near-zero dependencies**: no `transformers`, no `diffusers`, no version-conflict hell. Runs on any platform.
 - **Official ComfyUI support**: drop the [official workflow template](https://github.com/Comfy-Org/workflow_templates/blob/main/templates/3d_triposplat_image_to_gaussian_splat.json) into ComfyUI and start playing with TripoSplat right away.
 
